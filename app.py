@@ -25,3 +25,6 @@ def create_store():
     stores.append(new_store)
     return new_store, 201
 
+
+print("hello for git")
+
