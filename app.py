@@ -26,5 +26,3 @@ def create_store():
     return new_store, 201
 
 
-print("bjvbksvnk")
-
